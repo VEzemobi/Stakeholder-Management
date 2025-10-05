@@ -22,8 +22,12 @@ Outcome
 The chatbot was successfully funded and implemented. It improved customer engagement on the website, reduced call volumes, and provided faster service to customers seeking basic information. The stakeholder later became one of the strongest supporters of the project.
 
 Key Takeaways
-✅ Stakeholder concerns often extend beyond business logic — understand their motivations.
-✅ Building trust and rapport outside formal settings can open doors to meaningful influence.
-✅ Relatable analogies help stakeholders visualize value from their own experiences.
-✅ Empathy and communication are just as important as technical expertise in driving project success.
-✅ This project reduced call volume to the call center by 20%, and increased engagement on the website by 30%.
+✅ Stakeholder concerns often extend beyond business logic — understand their motivations.
+
+✅ Building trust and rapport outside formal settings can open doors to meaningful influence.
+
+✅ Relatable analogies help stakeholders visualize value from their own experiences.
+
+✅ Empathy and communication are just as important as technical expertise in driving project success.
+
+✅ This project reduced call volume to the call center by 20%, and increased engagement on the website by 30%.
